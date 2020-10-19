@@ -1,2 +1,30 @@
-# school_district_analysis
-Module 4
+# Module 4 - mchool District Analysis
+
+## Overvie of School District Analysis
+
+#### This School District Analysis was to replace Thomas High School 9th grade math and reading scores with Nan, due to academic dishonesty. In the process of the analysis learning DataFrames with Pandas using the loc method, describe, Grouphby, cut and other commands learned in previous lessons.
+
+#### Once the data had been cleaned by throwing out Thomas High School 9th grade scores we were to repeat the analysis from the module. This included breaking tha data down by highest and lowest performing schools, scores by grade, spending budget per student, school size and the school type of District vs Charter. Creating DataFrame charts to display all those sets of data as well as formatting the chart in ways such as dispaying scores as percents and removing the index header.
+
+## School District Results
+
+#### - The district and school summaries see no change. Even though you can see from the screenshots that Thomas 9th grade math scores have been voided the overall summaries remain unchanged.
+
+#
+![stacked_launch_outcomes](https://github.com/charlieburd/school_district_analysis/blob/main/Resources/thomas_math_scores.png)
+#
+![stacked_launch_outcomes](https://github.com/charlieburd/school_district_analysis/blob/main/Resources/thomas_math_scores_voided.png)
+#
+
+#### Because Thomas High School 9th grade scrores we typically higher than the averages most of the averages should have gone down, Charter reading scores should have increased
+#### - Grade: Gone down
+#### - Spending: Gone down
+#### - Size: Gone down
+#### - Type: Gone down for Math, gone up for Reading
+
+
+## School District Summary:
+#### - Grade: Gone down
+#### - Spending: Gone down
+#### - Size: Gone down
+#### - Type: Gone down for Math, gone up for Reading
