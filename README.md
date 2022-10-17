@@ -22,7 +22,6 @@
 #### - Size: Gone down
 #### - Type: Gone down for Math, gone up for Reading
 
-
 ## School District Summary:
 #### - Grade: Gone down
 #### - Spending: Gone down
